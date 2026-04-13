@@ -1,0 +1,1 @@
+Gerador de senhas simples desenvolvido com HTML, CSS e JavaScript, permitindo criar senhas seguras de forma rápida e prática.
